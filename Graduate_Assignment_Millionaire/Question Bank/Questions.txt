@@ -1,0 +1,10 @@
+Declaring a pointer more than once may cause __ 
+An expression A.B in C++ means __
+__ function is used to allocate space for array in memory.
+A pointer pointing to a variable that is not initialized is called __
+A class who's objects can not be created is known as ___
+Which class allows only one object to be created.
+Reusability of code in C++ is achieved through __
+In C++ Program, inline functions are expanded during __
+To perform file input / output operation in C++, we must include which header file ?
+An exception in C++ can be generated using which keywords.

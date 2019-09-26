@@ -1,0 +1,97 @@
+$ server
+=> Socket server has been created...
+=> Looking for clients...
+=> Connected with the client #1, you are good to go...
+
+$ client
+=> Socket client has been created...
+=> Connection to the server port number: 1500
+=> Awaiting confirmation from the server...
+=> Connection confirmed, you are good to go...
+
+Please Enter your username: mk
+
+
+Welcome mk
+
+1. Declaring a pointer more than once may cause __
+1.Error ,2.Abort ,3.Trap ,4.Null 
+Enter the correct option #3
+
+Correct!
+Prize Won $2,000
+Life line remaining : 3
+
+2. An expression A.B in C++ means __
+1.A is member of object B ,2.B is member of Object A ,3.Product of A and B ,4.None of these 
+Enter the correct option #2
+
+Correct!
+Prize Won $4,000
+Life line remaining : 3
+
+3. __ function is used to allocate space for array in memory.
+1.malloc() ,2.realloc() ,3.alloc() ,4.calloc() 
+Enter the correct option #4
+
+Correct!
+Prize Won $8,000
+Life line remaining : 3
+
+4. A pointer pointing to a variable that is not initialized is called __
+1.Void Pointer ,2.Null Pointer ,3.Empty Pointer ,4.Wild Pointer 
+Enter the correct option #2
+
+Correct!
+Prize Won $16,000
+Life line remaining : 3
+
+5. A class who's objects can not be created is known as ___
+1.Absurd Class ,2.Dead Class ,3.Super Class ,4.Abstract Class 
+Enter the correct option #4
+
+Correct!
+Prize Won $32,000
+Life line remaining : 3
+
+6. Which class allows only one object to be created.
+1.Nuclear Family Class ,2.Abstract Class ,3.Singleton Class ,4.Numero Uno Class 
+Enter the correct option #3
+
+Correct!
+Prize Won $64,000
+Life line remaining : 3
+
+7. Reusability of code in C++ is achieved through __
+1.Polymorphism ,2.Inheritance ,3.Encapsulation ,4.Both A and B 
+Enter the correct option #2
+
+Correct!
+Prize Won $128,000
+Life line remaining : 3
+
+8. In C++ Program, inline functions are expanded during __
+1.Run Time ,2.Compile Time ,3.Debug Time ,4.Coding Time 
+Enter the correct option #1
+
+Correct!
+Prize Won $250,000
+Life line remaining : 3
+
+9. To perform file input / output operation in C++, we must include which header file ?
+1.<fiostream> ,2.<ifstream> ,3.<ofstream> ,4.<fstream> 
+Enter the correct option #4
+
+Correct!
+Prize Won $500,000
+Life line remaining : 3
+
+10. An exception in C++ can be generated using which keywords.
+1.thrown ,2.threw ,3.throw ,4.throws 
+Enter the correct option #3
+
+Correct!
+Congratulations! You are a Millionaire!
+
+=> Connection terminated.
+Goodbye...

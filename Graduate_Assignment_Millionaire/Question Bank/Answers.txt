@@ -1,0 +1,10 @@
+3.Trap
+2.B is member of Object A
+4.calloc()
+2.Null Pointer
+4.Abstract Class
+3.Singleton Class
+2.Inheritance
+1.Run Time
+4.<fstream>
+3.throw

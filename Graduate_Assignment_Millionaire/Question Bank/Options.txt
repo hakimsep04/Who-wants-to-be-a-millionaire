@@ -1,0 +1,10 @@
+1.Error,2.Abort,3.Trap,4.Null
+1.A is member of object B,2.B is member of Object A,3.Product of A and B,4.None of these
+1.malloc(),2.realloc(),3.alloc(),4.calloc()
+1.Void Pointer,2.Null Pointer,3.Empty Pointer,4.Wild Pointer
+1.Absurd Class,2.Dead Class,3.Super Class,4.Abstract Class
+1.Nuclear Family Class,2.Abstract Class,3.Singleton Class,4.Numero Uno Class
+1.Polymorphism,2.Inheritance,3.Encapsulation,4.Both A and B
+1.Run Time,2.Compile Time,3.Debug Time,4.Coding Time
+1.<fiostream>,2.<ifstream>,3.<ofstream>,4.<fstream>
+1.thrown,2.threw,3.throw,4.throws
